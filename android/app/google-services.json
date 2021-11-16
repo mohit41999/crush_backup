@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334315383425",
+    "project_id": "crush-f2734",
+    "storage_bucket": "crush-f2734.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334315383425:android:fd87a25cc87d872bb73b80",
+        "android_client_info": {
+          "package_name": "com.ranaca.crush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334315383425-c656nfrjv0onpk8100r9h4k8sovhhvmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA69MT8UqclSJbMmtyZjB6HpUbgiOCOAwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334315383425-c656nfrjv0onpk8100r9h4k8sovhhvmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
